@@ -11,6 +11,6 @@ O código produzido tem como intuito demonstrar a aplicação de matrizes na com
 ## Integrantes do grupo:
 
 - [Caio Marcelo Cavallari Ruas](https://github.com/CaioRuas24010)
-- [Thalles José de S. Cansi](github.com/thallescansi)
+- [Thalles José de S. Cansi](https://github.com/thallescansi)
 - [Pedro Henrique Medeiros Bramante](https://github.com/PedroBramante)
 - [Enzo Januzzi Xavier](https://github.com/EnzoJanuzzi)
