@@ -1,7 +1,6 @@
 # Trabalho final: Matrizes e suas Aplicações na Computação Gráfica
 
-# !["Badge Ilum"](https://img.shields.io/badge/Ilum%20-%20purple) https://img.shields.io/badge/Trabalho%20Final%2C%20green%20
-
+# !["Badge Ilum"](https://img.shields.io/badge/Ilum%20-%20purple) !["Badge Trabalho Final](https://img.shields.io/badge/Trabalho%20Final-green%20)
 
 Neste repositório, será adicionado o código produzido no trabalho final da disciplina Álgebra Linear Computacional, ministrada pelo professor doutor Vinícius Francisco Wasques na Ilum - Escola de ciência (CNPEM). O código foi desenvolvido utilizando a linguagem de programação Python.
 
